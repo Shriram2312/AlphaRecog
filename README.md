@@ -69,6 +69,7 @@ This model architecture with the following layers shown below has been used for 
 
 **Authors**
 
-*	Balaji 
+*	Balaji O M
+*	John Marinton Reni
 *	Padmajaya Rekha K
 *	Siddhartha N
