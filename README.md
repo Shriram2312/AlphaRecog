@@ -1,4 +1,4 @@
-# Alphabet Hand Gesture Recognition using Mediapipe
+# Alphabet Hand Sign Recognition using Mediapipe
 
 Mediapipe is a cross-platform framework which is used to build many Machine Learning pipelines for Hands, Object Detection, Face Mesh, etc.
 
